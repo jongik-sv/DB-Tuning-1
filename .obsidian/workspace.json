@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "36fa42cdedcf3c39",
+    "type": "split",
+    "children": [
+      {
+        "id": "290702dac8adf50e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "beeba3d722cc3d69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL 튜닝의 시작 1, 한 시간에 싹.다.정.리!/6장. FUNCTION 수행과 SQL 성능문제 이해하기.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6장. FUNCTION 수행과 SQL 성능문제 이해하기"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7f7099ef5acd566",
+    "type": "split",
+    "children": [
+      {
+        "id": "603ae396b5f3be27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a08f3f5a88c34586",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "7538de711e0ad448",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "98ac6406ca695b33",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 459.5
+  },
+  "right": {
+    "id": "30480578dfd88045",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d7997802c699e76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9cde59eda8ce038",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SQL 튜닝의 시작 1, 한 시간에 싹.다.정.리!/6장. FUNCTION 수행과 SQL 성능문제 이해하기.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "6장. FUNCTION 수행과 SQL 성능문제 이해하기의 백링크"
+            }
+          },
+          {
+            "id": "0938f7964da8d02c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SQL 튜닝의 시작 1, 한 시간에 싹.다.정.리!/6장. FUNCTION 수행과 SQL 성능문제 이해하기.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "6장. FUNCTION 수행과 SQL 성능문제 이해하기의 나가는 링크"
+            }
+          },
+          {
+            "id": "9f9e1b3ff9057127",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d12cd0c5b3361335",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SQL 튜닝의 시작 1, 한 시간에 싹.다.정.리!/6장. FUNCTION 수행과 SQL 성능문제 이해하기.md"
+              },
+              "icon": "lucide-list",
+              "title": "6장. FUNCTION 수행과 SQL 성능문제 이해하기 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "beeba3d722cc3d69",
+  "lastOpenFiles": [
+    "README.md",
+    "SQL 튜닝의 시작 1, 한 시간에 싹.다.정.리!/Pasted image 20241204110331.png",
+    "SQL 튜닝의 시작 1, 한 시간에 싹.다.정.리!/Pasted image 20241203134819.png",
+    "SQL 튜닝의 시작 1, 한 시간에 싹.다.정.리!/Pasted image 20241204105502.png",
+    "SQL 튜닝의 시작 1, 한 시간에 싹.다.정.리!/Pasted image 20241203133821.png",
+    "SQL 튜닝의 시작 1, 한 시간에 싹.다.정.리!/Pasted image 20241203133724.png",
+    "SQL 튜닝의 시작 1, 한 시간에 싹.다.정.리!/Pasted image 20241204110204.png",
+    "SQL 튜닝의 시작 1, 한 시간에 싹.다.정.리!/Pasted image 20241203153053.png",
+    "SQL 튜닝의 시작 1, 한 시간에 싹.다.정.리!/Pasted image 20241203132305.png",
+    "SQL 튜닝의 시작 1, 한 시간에 싹.다.정.리!/Pasted image 20241204110529.png",
+    "SQL 튜닝의 시작 1, 한 시간에 싹.다.정.리!/Pasted image 20241204105524.png",
+    "SQL 튜닝의 시작 1, 한 시간에 싹.다.정.리!/5장. MERGE 구문 이해와 효율적인 SQL 작성하기.md",
+    "SQL 튜닝의 시작 1, 한 시간에 싹.다.정.리!/4장. WITH절 이해와 효율적인 SQL 작성하기.md",
+    "SQL 튜닝의 시작 1, 한 시간에 싹.다.정.리!/0장. 들어가기에 앞서.md",
+    "SQL 튜닝의 시작 1, 한 시간에 싹.다.정.리!/3장. 스칼라 서브쿼리의 이해와 효율적인 SQL 작성하기.md",
+    "SQL 튜닝의 시작 1, 한 시간에 싹.다.정.리!/2장. 서브쿼리와 성능 문제 이해하기.md",
+    "0장. 들어가기에 앞서.pdf",
+    "넥서스.md",
+    "SQL 튜닝의 시작 1, 한 시간에 싹.다.정.리!/8장. NULL 처리 구문 이해와 효율적인 SQL 작성하기.md",
+    "SQL 튜닝의 시작 1, 한 시간에 싹.다.정.리!/1장. SQL의 작성 의도를 제대로 파악하라.md",
+    "SQL 튜닝의 시작 1, 한 시간에 싹.다.정.리!/14장. 화면 Pagination 처리할 때 이것은 지키자.md",
+    "SQL 튜닝의 시작 1, 한 시간에 싹.다.정.리!/13장. ROWNUM 이해와 관련 SQL 성능문제 이해하기.md",
+    "SQL 튜닝의 시작 1, 한 시간에 싹.다.정.리!/11장. 칼럼 변형에 의한 SQL 성능문제 이해하기.md",
+    "SQL 튜닝의 시작 1, 한 시간에 싹.다.정.리!/10장. 임의의 데이터를 활용한 효율적인 SQL 작성하기.md",
+    "SQL 튜닝의 시작 1, 한 시간에 싹.다.정.리!/7장. DECODE & CASE WHEN 이해 및 조건 문 처리하기.md",
+    "SQL 튜닝의 시작 1, 한 시간에 싹.다.정.리!/6장. FUNCTION 수행과 SQL 성능문제 이해하기.md",
+    "무제 폴더",
+    "SQL 튜닝의 시작 1, 한 시간에 싹.다.정.리!/2강. 서브쿼리와 성능 문제 이해하기.md",
+    "SQL 튜닝의 시작 1, 한 시간에 싹.다.정.리!/1강. SQL의 작성 의도를 제대로 파악하라.md",
+    "SQL 튜닝의 시작 1, 한 시간에 싹.다.정.리!"
+  ]
+}

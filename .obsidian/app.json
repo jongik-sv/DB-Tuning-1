@@ -1,0 +1,10 @@
+{
+  "showRibbon": false,
+  "readableLineLength": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": true,
+    "margin": "0",
+    "downscalePercent": 71
+  }
+}
