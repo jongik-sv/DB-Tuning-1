@@ -331,5 +331,4 @@ group by session_id,
              program  
 order by sum(decode(session_state,'ON CPU',1,1)) DESC;
 
-출처: [https://boeok.tistory.com/entry/성능-개선-대상-sql-찾기-튜닝의시작-튜닝방법론](https://boeok.tistory.com/entry/%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0-%EB%8C%80%EC%83%81-sql-%EC%B0%BE%EA%B8%B0-%ED%8A%9C%EB%8B%9D%EC%9D%98%EC%8B%9C%EC%9E%91-%ED%8A%9C%EB%8B%9D%EB%B0%A9%EB%B2%95%EB%A1%A0) [Secret:티스토리]
 ```
