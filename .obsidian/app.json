@@ -6,5 +6,6 @@
     "landscape": true,
     "margin": "0",
     "downscalePercent": 71
-  }
+  },
+  "attachmentFolderPath": "./"
 }
